@@ -1,0 +1,18 @@
+img{
+  margin: auto;
+  display: block;
+}
+.dieholder{
+  position: relative;
+}
+
+#dieroll{
+  position: absolute;
+  top: 50%;
+  left: 46.5%;
+  margin: 0;
+}
+
+body{
+  background-image: url("opensky.jpg");
+}
