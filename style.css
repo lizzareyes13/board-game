@@ -16,3 +16,23 @@ img{
 body{
   background-image: url("opensky.jpg");
 }
+
+table{
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+}
+
+table td{
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.board-cell{
+  border: 2px solid black;
+}
+
+h1,h2{
+  text-align: center;
+}
