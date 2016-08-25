@@ -36,3 +36,20 @@ table td{
 h1,h2{
   text-align: center;
 }
+
+#player1, #player2{
+  position: absolute;
+  width: 50px;
+  left: 50px;
+}
+
+#player1 img, #player2 img{
+  width: 50px;
+}
+/*#Player1 h2{
+  position: absolute;
+}
+
+#Player2 h2{
+  position: absolute;
+}*/
